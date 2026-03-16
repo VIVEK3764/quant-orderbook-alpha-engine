@@ -1,0 +1,9 @@
+pandas
+numpy
+websockets
+asyncio
+pyarrow
+scikit-learn
+xgboost
+matplotlib
+polars

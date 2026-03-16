@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data folders
+data/
+*.parquet
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
